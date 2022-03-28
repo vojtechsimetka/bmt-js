@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/vojtechsimetka/bmt-js/compare/v1.0.0...v1.1.0) (2022-03-28)
+
+
+### Features
+
+* test 1 ([ed869cd](https://www.github.com/vojtechsimetka/bmt-js/commit/ed869cd496d9a04d1e8916d94aabb75d6d2bff89))
+* test 1 ([#2](https://www.github.com/vojtechsimetka/bmt-js/issues/2)) ([514384e](https://www.github.com/vojtechsimetka/bmt-js/commit/514384ec01e548370e26cd48c44448ac1c708078))
+
 ## 1.0.0 (2022-03-25)
 
 
