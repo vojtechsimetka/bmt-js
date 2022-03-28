@@ -8,7 +8,6 @@ export interface ChunkInclusionProof<SpanLength extends number = typeof DEFAULT_
   sisterSegments: Uint8Array[]
 }
 
-// just a test commit
 export interface ChunkedFile<
   MaxChunkPayloadLength extends number = typeof DEFAULT_MAX_PAYLOAD_SIZE,
   SpanLength extends number = typeof DEFAULT_SPAN_SIZE,
